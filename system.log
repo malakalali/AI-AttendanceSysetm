@@ -1,0 +1,20 @@
+2025-05-07 20:09:12,123 - system - INFO - Setting up Python environment...
+2025-05-07 20:09:12,123 - system - INFO - Running command: /Users/malak/PycharmProjects/PythonProject7/venv/bin/python -m pip install -r requirements.txt
+2025-05-07 20:09:12,124 - system - INFO - Created directory: face_recognition/models
+2025-05-07 20:09:12,124 - system - INFO - Created directory: face_recognition/registered_faces
+2025-05-07 20:09:12,124 - system - INFO - Created directory: face_recognition/detected_faces
+2025-05-07 20:09:12,124 - system - INFO - Created directory: backend/received_faces
+2025-05-07 20:09:12,124 - system - INFO - Created directory: data
+2025-05-07 20:09:12,124 - system - INFO - Starting backend server...
+2025-05-07 20:09:12,124 - system - INFO - Running command: /Users/malak/PycharmProjects/PythonProject7/venv/bin/python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload
+2025-05-07 20:09:12,125 - system - INFO - Backend server started successfully
+2025-05-07 20:09:12,125 - system - INFO - Starting frontend...
+2025-05-07 20:09:12,125 - system - INFO - Running command: npm start
+2025-05-07 20:09:12,127 - system - INFO - Frontend started successfully
+2025-05-07 20:09:12,127 - system - INFO - Starting face recognition service...
+2025-05-07 20:09:12,127 - system - INFO - Running command: /Users/malak/PycharmProjects/PythonProject7/venv/bin/python face_recognition/services/face_recognition_service.py
+2025-05-07 20:09:12,128 - system - INFO - Face recognition service started successfully
+2025-05-07 20:09:17,131 - system - ERROR - Service failed to start properly. Exit code: 2
+2025-05-07 20:09:17,131 - system - ERROR - Some services failed to start properly
+2025-05-07 20:09:17,131 - system - INFO - Cleaning up processes...
+2025-05-07 20:09:17,919 - system - INFO - Cleaning up processes...
