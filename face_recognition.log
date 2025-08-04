@@ -1,0 +1,6 @@
+2025-05-07 21:05:31,042 - face_recognition - INFO - Loaded 10 registered faces
+2025-05-07 21:05:32,831 - face_recognition - INFO - Face recognition service started
+2025-05-07 21:05:32,831 - face_recognition - INFO - Confidence threshold set to 0.8
+2025-05-07 21:08:15,105 - face_recognition - INFO - Loaded 10 registered faces
+2025-05-07 21:08:16,703 - face_recognition - INFO - Face recognition service started
+2025-05-07 21:08:16,703 - face_recognition - INFO - Confidence threshold set to 0.8
